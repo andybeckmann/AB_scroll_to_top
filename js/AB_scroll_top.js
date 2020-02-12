@@ -2,7 +2,7 @@
  * AB_scroll_top
  * version: 1.0.0
  * 
- * scrollTop() adds a button that brings user to the top of the page after scrolling
+ * scrollTop() A button that brings user to the top of the page after scrolling
  */
 
 function scrollTop() {
