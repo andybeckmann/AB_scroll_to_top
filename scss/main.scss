@@ -1,0 +1,11 @@
+// Global styles
+@use 'global';
+
+// AB_scroll_top
+@use 'components/AB_scroll_top';
+
+// Demo styles
+body {
+	padding: 20px 35px;
+	font-family: sans-serif;
+}
